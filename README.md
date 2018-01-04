@@ -1,10 +1,10 @@
-# sleep is my pro ject
+# sleep 是一个插件少时诵诗书
 
-## fiorst
-* and instalkl `cd project`
-* and somitnf
+## 如何安装
+* 第一步 `npm install vue-cli -g`
+* 第二部 `npm install sleep -g`
 
-## thisi thr coe
+## 如何使用
 
 ```javascript
 
@@ -13,9 +13,10 @@
     
     }
   }
+  
+  var a = new Rules(); //some doinbg
 
 ```
 
 
-## listennter mit
-  
+## 请捐助我们，支付宝XXXXxx
